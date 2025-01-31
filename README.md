@@ -46,8 +46,8 @@ This project focuses on predicting the Study Recruitment Rate (RR) for clinical 
 ---
 
 ## Results
-- **Root Mean Square Error (RMSE)**: 0.34
-- **Mean Absolute Error (MAE)**: 0.083
+- **Root Mean Square Error (RMSE)**: 0.30
+- **Mean Absolute Error (MAE)**: 0.0791
 - **R² Score**: 0.45
 
 ### Key Insights
